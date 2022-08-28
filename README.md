@@ -4,6 +4,6 @@
 
 ##### Note 
 
-Before importing a theme, check the Terminal's version and import accordingly to avoid errors.
+Before importing a theme, check the Terminal's version (Terminal > About Terminal) and import accordingly to avoid errors.
 
-More info here: [https://bogdanb.micro.blog/2022/05/08/mmterminal.html](https://bogdanb.micro.blog/2022/05/08/mmterminal.html)  
+More info here: [https://bogdanbolchis.github.io/2022/05/08/mmterminal.html](https://bogdanbolchis.github.io/2022/05/08/mmterminal.html)
