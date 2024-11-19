@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Execute this python code from inside a Nova local terminal session.
+# Then in Terminal, use the color picker to configure each color of the profile.
+
 rectangle = '\u2588\u2588\u2588'
 
 def print_colors_starting_with(color_code):
